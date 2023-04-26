@@ -30,7 +30,7 @@ class TestConferenceBadges:
         "Hello, Alan! You'll be assigned to room 5!", 
         "Hello, Grace! You'll be assigned to room 6!", 
         "Hello, Linus! You'll be assigned to room 7!", 
-        "Hello, Matz! You'll be assigned to room 1!"
+        "Hello, Matz! You'll be assigned to room 8!"
     ]
 
     PRINTED = '''Hello, my name is Guido.\nHello, my name is Edsger.\nHello, my name is Ada.\nHello, my name is Charles.\nHello, my name is Alan.\nHello, my name is Grace.\nHello, my name is Linus.\nHello, my name is Matz.\nHello, Guido! You'll be assigned to room 1!\nHello, Edsger! You'll be assigned to room 2!\nHello, Ada! You'll be assigned to room 3!\nHello, Charles! You'll be assigned to room 4!\nHello, Alan! You'll be assigned to room 5!\nHello, Grace! You'll be assigned to room 6!\nHello, Linus! You'll be assigned to room 7!\nHello, Matz! You'll be assigned to room 8!\n'''
